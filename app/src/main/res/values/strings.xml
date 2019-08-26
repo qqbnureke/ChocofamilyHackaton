@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChocofamilyHackaton</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="description_test">Burger King Corporation («Бургер Кинг Корпорейшн») — американская компания, владелец
+        глобальной сети ресторанов быстрого питания Burger King, специализирующейся на гамбургерах (главным образом, на
+        вопперах). Штаб-квартира находится на невключённой территории округа Майами-Дейд (штат Флорида, США).
+    </string>
+</resources>

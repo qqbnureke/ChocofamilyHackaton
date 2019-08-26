@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f88263</color>
+    <color name="colorPrimaryDark">#c15338</color>
+    <color name="colorAccent">#ffb391</color>
+    <color name="colorMain">#f88263</color>
+    <color name="fone_color">#ff5d23</color>
+    <color name="color_red">#FF0000</color>
+</resources>
